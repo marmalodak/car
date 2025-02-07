@@ -1,0 +1,171 @@
+Car
+===
+:compat-mode!:
+:description: I want to build a car
+:max-width: 100%
+:nofooter:
+:!version-label:
+:icons: font
+:listing-caption: Listing
+:source-highlighter: pygments
+:!sectlinks:
+// sectlinks makes each section a clickable HTML link
+:copycss:
+:stylesheet: README.css
+
+== My Dream Car
+
+=== The Electric Dream Car
+
+. Buy car kit
+. Get custom wheel mounts for electric motors
+. ???
+. Profit
+
+tl;dr Add hub motors to a Factory Five mark IV or https://www.factoryfive.com/roadster/mk5/[mark V], or better yet, the https://www.factoryfive.com/818/818s/[8181S].
+
+=== bookmarks
+
+. https://www.factoryfive.com/roadster/mk5/[Factory Five Mk5] Car
+. https://www.factoryfive.com/818/818s/[Factory Five 818S]
+. Youtube: https://www.youtube.com/watch?v=RjISvISOW5Q[Why is Aptera using In-Wheel Motors? (ft. Elaphe)]
+. Youtube: https://www.youtube.com/watch?v=iQ4lTPVR3qc[WORLD's FIRST ELECTRIC hybrid AWD Honda Civic Type R FK8 with 450hp!]
+.. https://www.orbiselectric.com/oemotors[Orbis Electric Axial Flux Motors]
+.. https://www.linkedin.com/in/marcusghays[Marcus Hays on LinkedIn] CTO at Orbis in Mill Valley, California
+.. https://thevintagent.com/2023/03/31/reinventing-the-wheel-marcus-hayes/[Re-Inventing the Wheel: Marcus Hays]
+. Youtube: https://youtu.be/Vg6ys0D8C2o[Electric Car with fake ICE sounds]
+
+=== Hmm...
+
+.Dollars
+[%autowidth]
+|===
+|Part|$
+
+|Factory Five Mk 4
+|About $20k
+
+|2WD Orbis kit
+|About $10k
+
+|Prius battery pack
+|About $2k
+|===
+
+
+// === table
+// 
+// .A table with a title
+// [%autowidth]
+// |===
+// |Column 1, header row |Column 2, header row | Column 3
+// 
+// m|Cell in column 1, row 2
+// |Cell in column 2, row 2
+// a| * [x] item 4
+// 
+// e|Cell in column 1, row 3
+// s|Cell in column 2, row 3
+// a| * [*] item 5
+// 
+// e|Cell in column 1, row 4
+// s|Cell in column 2, row 4
+// a| * [ ] unchecked
+// |===
+// 
+// https://docs.asciidoctor.org/asciidoc/latest/tables/format-cell-content/[More about formatting cell contents].
+// I learned about checklists in tables from https://github.com/asciidoctor/asciidoctor/issues/1674#issuecomment-1760568225[SO].
+// 
+// === blocks
+// 
+// [NOTE]
+// ====
+// A quote inside a block.
+// 
+// From https://asciidoc-py.github.io/userguide.html#X51[10.1. Quoted Text]
+// 
+// > Words and phrases can be formatted by enclosing inline text with quote characters
+// ====
+// 
+// In addtion to `NOTE`, there are `CODE`, `TIP`, `WARNING`, `IMPORTANT`, `CAUTION`
+// 
+// [TIP]
+// ====
+// TIP...
+// ====
+// 
+// [WARNING]
+// ====
+// WARNING...
+// ====
+// 
+// [IMPORTANT]
+// ====
+// Important...
+// ====
+// 
+// [CAUTION]
+// ====
+// Caution...
+// ====
+// 
+// .Some Ruby code, with line numbers
+// [source,ruby,linenums]
+// ----
+// require 'sinatra'
+// 
+// get '/hi' do
+//   "Hello World!"
+// end
+// ----
+// 
+// ==== passthrough block
+// 
+// ++++
+// <p>
+// Content in a passthrough block is passed to the output unprocessed.
+// That means you can include raw HTML, like this embedded Gist:
+// </p>
+// 
+// <script src="https://gist.github.com/mojavelinux/5333524.js">
+// </script>
+// ++++
+// 
+// 
+// === blanks and newline
+// 
+// 
+// https://github.com/asciidoctor/asciidoctor/wiki/How-to-insert-sequential-blank-lines[Learn about blank lines] on the asciidoctor wiki or on https://github.com/asciidoctor/asciidoctor/wiki/How-to-insert-sequential-blank-lines[the github page]
+// 
+// {empty} +
+//  +
+// Also simply space plus newline +
+//  +
+// 
+// === embedded image
+// 
+// image::8iRAIDTrimodeAdapters.png[8i RAID/HBA Trimode adapters]
+// 
+// 
+// === list continuation
+// 
+// . this is the first item in the list
+// +
+// 
+// [IMPORTANT]
+// ====
+// See the plus sign directly underneath the first item in the list, it signals that the list should continue
+// ====
+// 
+// . second item in the list
+// 
+// 
+// === lists with custom markers, https://docs.asciidoctor.org/asciidoc/latest/lists/unordered/#markers[docs]
+// 
+// [circle]
+// * an item
+// ** another item
+// * an item
+// ** yai
+// [square]
+// *
