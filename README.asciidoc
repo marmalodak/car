@@ -24,7 +24,28 @@ Car
 
 tl;dr Add hub motors to a Factory Five mark IV or https://www.factoryfive.com/roadster/mk5/[mark V], or better yet, the https://www.factoryfive.com/818/818s/[8181S].
 
-=== bookmarks
+=== Background
+
+I first learned about hub motors when Michelin first talked about them approximately 2004. See https://www.youtube.com/watch?v=mv6cjURbBaw[Michelin ActiveWheel in hub electric motor at EVS26 on youtube]. My plan was to retrofit my old Mazda MX3. I never heard about them again. During CES 2025, all sorts of fun hub motor stuff bame on the scene.
+Back then I didn't know about kit cars either. My favorite is Factory Five.
+
+Then I see that Orbis is talking about retrofitting a Civic and now I'm obsessing about this again.
+
+If the material below is to be believed, a little hub motor can deliver maybe 50 horsepower.
+
+Would it make sense to maky my Vehicross electric? Imagine 200 horespower AWD Vehicross that weighs what? Maybe 1000 pounds?
+
+=== Forget about ICE
+
+Unlike the Orbis plan, I want to remove the gas engine and everything connected to it. Unless someone else makes real guages, put an iPad into the dash. Hopefully the charging and motor control software can serve up all the monitoring info via HTTP and so the iPad's only job is to show a web page.
+
+=== OE
+
+.from https://www.orbiselectric.com/oemotors[Orbis Electric]
+image::orbis-electric-hub-motor-specs.png["OE In-Wheel Axial Flux Motor Specifications"]
+If the ratio of Nm to horsepower is about 1.3, does that mean each wheel can deliver about 100HP of continuous power?
+
+=== Bookmarks
 
 . https://www.factoryfive.com/roadster/mk5/[Factory Five Mk5] Car
 . https://www.factoryfive.com/818/818s/[Factory Five 818S]
@@ -37,9 +58,15 @@ tl;dr Add hub motors to a Factory Five mark IV or https://www.factoryfive.com/ro
 . https://www.lsxmag.com/features/dont-call-it-a-kit-car-corvette-centrals-concept-57-repro-body/['57 Corvetter Repro], looks so close
 . https://customimagecorvettes.com/product/1967-corvette-replica-coupe/[Replica Corevetter 1963 - 1967]
 . https://www.kitcarlist.com/index.html[Kit Car List], https://kitcarlist.com/corvette-kits.html[Corvettes], https://www.kitcarlist.com/lotus7.html[Lotus 7 Replicas]
-. https://www.crcoachworks.com/models[Retrovettes]
+. https://www.crcoachworks.com/models[Retrovettes] These have an https://en.wikipedia.org/wiki/Uncanny_valley[Uncanny valley] thing going on
 . https://www.acautos.com/67-roadster/[Another Cobra]
 . https://www.acautos.com/56-57-corvette/[56/57 Corvette]
+. https://www.youtube.com/watch?v=mv6cjURbBaw[Michelin ActiveWheel in hub electric motor at EVS26 on youtube] 2004 Whatever happened to this?
+. https://en.wikipedia.org/wiki/Active_Wheel[Active Wheel] on wikipedia
+. https://en.wikipedia.org/wiki/Wheel_hub_motor[Wheel hub motor] on wikipedia
+. https://www.youtube.com/watch?v=V9tDgdV30Jw[Michelin's Active Wheel] on youtube 2000 
+. https://www.machinedesign.com/markets/automotive/article/21831614/hub-motors-for-all-electric-vehicles-still-have-some-technological-challenges-to-overcome[Hub Motors for All-Electric Vehicles Still Have Some Technological Challenges to Overcome] 2010
+. https://www.motorauthority.com/news/1023258_report-no-decision-made-on-porsche-diesel[Michelin's Active Wheel technology in detail] 2008
 
 === Hmm...
 
