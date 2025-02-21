@@ -22,7 +22,7 @@ Car
 . ???
 . Profit
 
-tl;dr Add hub motors to a Factory Five mark IV or https://www.factoryfive.com/roadster/mk5/[mark V], or better yet, the https://www.factoryfive.com/818/818s/[8181S].
+tl;dr Add hub motors to a Factory Five mark IV or https://www.factoryfive.com/roadster/mk5/[mark V], or better yet, the https://www.factoryfive.com/818/818s/[818S].
 
 === Background
 
@@ -33,7 +33,7 @@ Then I see that Orbis is talking about retrofitting a Civic and now I'm obsessin
 
 If the material below is to be believed, a little hub motor can deliver maybe 50 horsepower.
 
-Would it make sense to maky my Vehicross electric? Imagine 200 horespower AWD Vehicross that weighs what? Maybe 1000 pounds?
+Would it make sense to make my Vehicross electric? Imagine 200 horespower AWD Vehicross that weighs what? Maybe 1000 pounds?
 
 === Forget about ICE
 
@@ -44,29 +44,6 @@ Unlike the Orbis plan, I want to remove the gas engine and everything connected 
 .from https://www.orbiselectric.com/oemotors[Orbis Electric]
 image::orbis-electric-hub-motor-specs.png["OE In-Wheel Axial Flux Motor Specifications"]
 If the ratio of Nm to horsepower is about 1.3, does that mean each wheel can deliver about 100HP of continuous power?
-
-=== Bookmarks
-
-. https://www.factoryfive.com/roadster/mk5/[Factory Five Mk5] Car
-. https://www.factoryfive.com/818/818s/[Factory Five 818S]
-. Youtube: https://www.youtube.com/watch?v=RjISvISOW5Q[Why is Aptera using In-Wheel Motors? (ft. Elaphe)]
-. Youtube: https://www.youtube.com/watch?v=iQ4lTPVR3qc[WORLD's FIRST ELECTRIC hybrid AWD Honda Civic Type R FK8 with 450hp!]
-.. https://www.orbiselectric.com/oemotors[Orbis Electric Axial Flux Motors]
-.. https://www.linkedin.com/in/marcusghays[Marcus Hays on LinkedIn] CTO at Orbis in Mill Valley, California
-.. https://thevintagent.com/2023/03/31/reinventing-the-wheel-marcus-hayes/[Re-Inventing the Wheel: Marcus Hays]
-. Youtube: https://youtu.be/Vg6ys0D8C2o[Electric Car with fake ICE sounds]
-. https://www.lsxmag.com/features/dont-call-it-a-kit-car-corvette-centrals-concept-57-repro-body/['57 Corvetter Repro], looks so close
-. https://customimagecorvettes.com/product/1967-corvette-replica-coupe/[Replica Corevetter 1963 - 1967]
-. https://www.kitcarlist.com/index.html[Kit Car List], https://kitcarlist.com/corvette-kits.html[Corvettes], https://www.kitcarlist.com/lotus7.html[Lotus 7 Replicas]
-. https://www.crcoachworks.com/models[Retrovettes] These have an https://en.wikipedia.org/wiki/Uncanny_valley[Uncanny valley] thing going on
-. https://www.acautos.com/67-roadster/[Another Cobra]
-. https://www.acautos.com/56-57-corvette/[56/57 Corvette]
-. https://www.youtube.com/watch?v=mv6cjURbBaw[Michelin ActiveWheel in hub electric motor at EVS26 on youtube] 2004 Whatever happened to this?
-. https://en.wikipedia.org/wiki/Active_Wheel[Active Wheel] on wikipedia
-. https://en.wikipedia.org/wiki/Wheel_hub_motor[Wheel hub motor] on wikipedia
-. https://www.youtube.com/watch?v=V9tDgdV30Jw[Michelin's Active Wheel] on youtube 2000 
-. https://www.machinedesign.com/markets/automotive/article/21831614/hub-motors-for-all-electric-vehicles-still-have-some-technological-challenges-to-overcome[Hub Motors for All-Electric Vehicles Still Have Some Technological Challenges to Overcome] 2010
-. https://www.motorauthority.com/news/1023258_report-no-decision-made-on-porsche-diesel[Michelin's Active Wheel technology in detail] 2008
 
 === Hmm...
 
@@ -84,6 +61,43 @@ If the ratio of Nm to horsepower is about 1.3, does that mean each wheel can del
 |Prius battery pack
 |About $2k
 |===
+
+=== Bookmarks
+
+=== Motors
+. https://en.wikipedia.org/wiki/Active_Wheel[Active Wheel] on wikipedia
+. https://en.wikipedia.org/wiki/Wheel_hub_motor[Wheel hub motor] on wikipedia
+. https://www.machinedesign.com/markets/automotive/article/21831614/hub-motors-for-all-electric-vehicles-still-have-some-technological-challenges-to-overcome[Hub Motors for All-Electric Vehicles Still Have Some Technological Challenges to Overcome] 2010
+. https://news.ycombinator.com/item?id=38471815[Hyundai Uni Wheel electric drive system could revolutionize EV design] on Hacker News
+. https://news.ycombinator.com/item?id=21121038[Belgian startup Magnax has found a way to mass-produce the axial-flux motor] Hacker News
+. [https://news.ycombinator.com/item?id=42631876[Donut Lab's next-generation in-wheel motors] Hacker News
+. https://www.autoblog.com/news/uni-wheel-hyundai-kia-electric-vehicle-design[Hyundai, Kia's Uni Wheel electric drive system could revolutionize EV design]
+
+==== Orbis Electric
+. https://www.orbiselectric.com/oemotors[Orbis Electric Axial Flux Motors]
+. https://www.linkedin.com/in/marcusghays[Marcus Hays on LinkedIn] CTO at Orbis in Mill Valley, California
+. https://thevintagent.com/2023/03/31/reinventing-the-wheel-marcus-hayes/[Re-Inventing the Wheel: Marcus Hays]
+
+==== Michelin
+. https://www.youtube.com/watch?v=mv6cjURbBaw[Michelin ActiveWheel in hub electric motor at EVS26 on youtube] 2004 Whatever happened to this?
+. https://www.youtube.com/watch?v=V9tDgdV30Jw[Michelin's Active Wheel] on youtube 2000 
+. https://www.motorauthority.com/news/1023258_report-no-decision-made-on-porsche-diesel[Michelin's Active Wheel technology in detail] 2008
+
+=== Kits
+. https://www.factoryfive.com/roadster/mk5/[Factory Five Mk5] Car
+. https://www.factoryfive.com/818/818s/[Factory Five 818S]
+. https://www.lsxmag.com/features/dont-call-it-a-kit-car-corvette-centrals-concept-57-repro-body/['57 Corvetter Repro], looks so close
+. https://customimagecorvettes.com/product/1967-corvette-replica-coupe/[Replica Corevetter 1963 - 1967]
+. https://www.kitcarlist.com/index.html[Kit Car List], https://kitcarlist.com/corvette-kits.html[Corvettes], https://www.kitcarlist.com/lotus7.html[Lotus 7 Replicas]
+. https://www.crcoachworks.com/models[Retrovettes] These have an https://en.wikipedia.org/wiki/Uncanny_valley[Uncanny valley] thing going on
+. https://www.acautos.com/67-roadster/[Another Cobra]
+. https://www.acautos.com/56-57-corvette/[56/57 Corvette]
+
+=== Cars
+. Youtube: https://www.youtube.com/watch?v=RjISvISOW5Q[Why is Aptera using In-Wheel Motors? (ft. Elaphe)]
+. Youtube: https://www.youtube.com/watch?v=iQ4lTPVR3qc[WORLD's FIRST ELECTRIC hybrid AWD Honda Civic Type R FK8 with 450hp!]
+. Youtube: https://youtu.be/Vg6ys0D8C2o[Electric Car with fake ICE sounds]
+
 
 
 // === table
@@ -174,11 +188,6 @@ If the ratio of Nm to horsepower is about 1.3, does that mean each wheel can del
 //  +
 // Also simply space plus newline +
 //  +
-// 
-// === embedded image
-// 
-// image::8iRAIDTrimodeAdapters.png[8i RAID/HBA Trimode adapters]
-// 
 // 
 // === list continuation
 // 
