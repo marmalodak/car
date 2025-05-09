@@ -65,6 +65,8 @@ If the ratio of Nm to horsepower is about 1.3, does that mean each wheel can del
 === Bookmarks
 
 === Motors
+
+. https://apple.news/Ap3vtIwBATgiz32kpMmC7Dg[Inside YASA: the Cosworth of e-motors] About 300bph weighing 7kgs
 . https://en.wikipedia.org/wiki/Active_Wheel[Active Wheel] on wikipedia
 . https://en.wikipedia.org/wiki/Wheel_hub_motor[Wheel hub motor] on wikipedia
 . https://www.machinedesign.com/markets/automotive/article/21831614/hub-motors-for-all-electric-vehicles-still-have-some-technological-challenges-to-overcome[Hub Motors for All-Electric Vehicles Still Have Some Technological Challenges to Overcome] 2010
@@ -72,18 +74,26 @@ If the ratio of Nm to horsepower is about 1.3, does that mean each wheel can del
 . https://news.ycombinator.com/item?id=21121038[Belgian startup Magnax has found a way to mass-produce the axial-flux motor] Hacker News
 . [https://news.ycombinator.com/item?id=42631876[Donut Lab's next-generation in-wheel motors] Hacker News
 . https://www.autoblog.com/news/uni-wheel-hyundai-kia-electric-vehicle-design[Hyundai, Kia's Uni Wheel electric drive system could revolutionize EV design]
+. https://www.youtube.com/watch?v=Zuffe5-W7W0[Axial Flux Motors, Video Podcast Sintex A/S]
+. https://www.youtube.com/watch?v=wvWB8099BkU[PCB Motor - Why Are Wedge Coils Better Than Round Coils?]
+
 
 ==== Orbis Electric
+
 . https://www.orbiselectric.com/oemotors[Orbis Electric Axial Flux Motors]
 . https://www.linkedin.com/in/marcusghays[Marcus Hays on LinkedIn] CTO at Orbis in Mill Valley, California
 . https://thevintagent.com/2023/03/31/reinventing-the-wheel-marcus-hayes/[Re-Inventing the Wheel: Marcus Hays]
 
+
 ==== Michelin
+
 . https://www.youtube.com/watch?v=mv6cjURbBaw[Michelin ActiveWheel in hub electric motor at EVS26 on youtube] 2004 Whatever happened to this?
 . https://www.youtube.com/watch?v=V9tDgdV30Jw[Michelin's Active Wheel] on youtube 2000 
 . https://www.motorauthority.com/news/1023258_report-no-decision-made-on-porsche-diesel[Michelin's Active Wheel technology in detail] 2008
 
+
 === Kits
+
 . https://www.factoryfive.com/roadster/mk5/[Factory Five Mk5] Car
 . https://www.factoryfive.com/818/818s/[Factory Five 818S]
 . https://www.lsxmag.com/features/dont-call-it-a-kit-car-corvette-centrals-concept-57-repro-body/['57 Corvetter Repro], looks so close
@@ -93,121 +103,9 @@ If the ratio of Nm to horsepower is about 1.3, does that mean each wheel can del
 . https://www.acautos.com/67-roadster/[Another Cobra]
 . https://www.acautos.com/56-57-corvette/[56/57 Corvette]
 
+
 === Cars
+
 . Youtube: https://www.youtube.com/watch?v=RjISvISOW5Q[Why is Aptera using In-Wheel Motors? (ft. Elaphe)]
 . Youtube: https://www.youtube.com/watch?v=iQ4lTPVR3qc[WORLD's FIRST ELECTRIC hybrid AWD Honda Civic Type R FK8 with 450hp!]
 . Youtube: https://youtu.be/Vg6ys0D8C2o[Electric Car with fake ICE sounds]
-
-
-
-// === table
-// 
-// .A table with a title
-// [%autowidth]
-// |===
-// |Column 1, header row |Column 2, header row | Column 3
-// 
-// m|Cell in column 1, row 2
-// |Cell in column 2, row 2
-// a| * [x] item 4
-// 
-// e|Cell in column 1, row 3
-// s|Cell in column 2, row 3
-// a| * [*] item 5
-// 
-// e|Cell in column 1, row 4
-// s|Cell in column 2, row 4
-// a| * [ ] unchecked
-// |===
-// 
-// https://docs.asciidoctor.org/asciidoc/latest/tables/format-cell-content/[More about formatting cell contents].
-// I learned about checklists in tables from https://github.com/asciidoctor/asciidoctor/issues/1674#issuecomment-1760568225[SO].
-// 
-// === blocks
-// 
-// [NOTE]
-// ====
-// A quote inside a block.
-// 
-// From https://asciidoc-py.github.io/userguide.html#X51[10.1. Quoted Text]
-// 
-// > Words and phrases can be formatted by enclosing inline text with quote characters
-// ====
-// 
-// In addtion to `NOTE`, there are `CODE`, `TIP`, `WARNING`, `IMPORTANT`, `CAUTION`
-// 
-// [TIP]
-// ====
-// TIP...
-// ====
-// 
-// [WARNING]
-// ====
-// WARNING...
-// ====
-// 
-// [IMPORTANT]
-// ====
-// Important...
-// ====
-// 
-// [CAUTION]
-// ====
-// Caution...
-// ====
-// 
-// .Some Ruby code, with line numbers
-// [source,ruby,linenums]
-// ----
-// require 'sinatra'
-// 
-// get '/hi' do
-//   "Hello World!"
-// end
-// ----
-// 
-// ==== passthrough block
-// 
-// ++++
-// <p>
-// Content in a passthrough block is passed to the output unprocessed.
-// That means you can include raw HTML, like this embedded Gist:
-// </p>
-// 
-// <script src="https://gist.github.com/mojavelinux/5333524.js">
-// </script>
-// ++++
-// 
-// 
-// === blanks and newline
-// 
-// 
-// https://github.com/asciidoctor/asciidoctor/wiki/How-to-insert-sequential-blank-lines[Learn about blank lines] on the asciidoctor wiki or on https://github.com/asciidoctor/asciidoctor/wiki/How-to-insert-sequential-blank-lines[the github page]
-// 
-// {empty} +
-//  +
-// Also simply space plus newline +
-//  +
-// 
-// === list continuation
-// 
-// . this is the first item in the list
-// +
-// 
-// [IMPORTANT]
-// ====
-// See the plus sign directly underneath the first item in the list, it signals that the list should continue
-// ====
-// 
-// . second item in the list
-// 
-// 
-// === lists with custom markers, https://docs.asciidoctor.org/asciidoc/latest/lists/unordered/#markers[docs]
-// 
-// [circle]
-// * an item
-// ** another item
-// * an item
-// ** yai
-// [square]
-// *
